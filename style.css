@@ -1,0 +1,19 @@
+.myVideo {
+    filter: brightness(60%);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    background-position: center center;
+    width: auto;
+    height: auto;
+}
+.head1{
+     background-color: black;
+     border-color: black;
+     color: white;
+     font-size: 90px;
+     text-decoration: none;
+}
