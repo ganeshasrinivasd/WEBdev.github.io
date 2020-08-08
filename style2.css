@@ -1,0 +1,13 @@
+body{
+     background-image:url("9027.jpg") ;
+     height: 100vh;
+background-size: cover;
+background-position:center;
+}
+.head3{
+
+     border-color: black;
+     color: black;
+     font-size: 20px;
+     text-decoration: none;
+}
