@@ -11,6 +11,8 @@
     height: auto;
 }
 .head1{
+     font-family: Impact, Charcoal, sans-serif;
+     font-style: italic;
      background-color: black;
      border-color: black;
      color: white;
@@ -23,4 +25,14 @@
      color: white;
      font-size: 20px;
      text-decoration: none;
+}
+.headbottom{
+     font-family: Impact, Charcoal, sans-serif;
+     font-style: italic;
+     background-color: black;
+     border-color: black;
+     color: white;
+     font-size: 40px;
+     text-decoration: none;
+     bottom: 0px;
 }
